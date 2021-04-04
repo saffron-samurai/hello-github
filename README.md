@@ -10,6 +10,4 @@ This is Sattwik Sahu (sharpkatana) creating a repo to introduce myself. This wil
 * Languages, frameworks that I know
 * Hobbies
 
-<hr />
-
-#### Hoping to conribute my best to the community! :fire: :partying_face:
+Hoping to conribute my best to the community! :fire: :partying_face:

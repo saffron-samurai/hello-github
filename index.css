@@ -1,0 +1,9 @@
+@import url("https://fonts.googleapis.com/css?family=Poppins");
+
+:root {
+  --poppins: "Poppins";
+}
+
+body {
+  font-family: var(--poppins);
+}
